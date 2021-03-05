@@ -7,6 +7,7 @@ For this projects I used:
 * React
 * Create-react-app
 * Fetch
+* Context
 
 
 This is how it looks and you can try it.
@@ -15,7 +16,7 @@ This is how it looks and you can try it.
 * npm i
 * npm start
 
-or go to [cocktailApp]()
+or go to [cocktailApp](https://clever-torvalds-c2a003.netlify.app/)
 
 ![repoimg](https://res.cloudinary.com/dw8xidhnh/image/upload/v1614904780/portfolio/Captura_de_pantalla_de_2021-03-04_18-38-31_ygipla.png)
 
